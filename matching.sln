@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "matching", "matching\matching.csproj", "{068E7D94-080B-47CC-B4B9-736AE6AD3062}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{068E7D94-080B-47CC-B4B9-736AE6AD3062}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{068E7D94-080B-47CC-B4B9-736AE6AD3062}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{068E7D94-080B-47CC-B4B9-736AE6AD3062}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{068E7D94-080B-47CC-B4B9-736AE6AD3062}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4B499CE3-4BD7-400B-B740-B57635FD6B17}
+	EndGlobalSection
+EndGlobal
